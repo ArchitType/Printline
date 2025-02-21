@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="2">
+  <advance width="168"/>
+  <unicode hex="0069"/>
+  <outline>
+    <contour>
+      <point x="41" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="127" y="500" type="line"/>
+      <point x="41" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="573" type="qcurve" smooth="yes"/>
+      <point x="106" y="573"/>
+      <point x="138" y="599"/>
+      <point x="138" y="636" type="qcurve" smooth="yes"/>
+      <point x="138" y="673"/>
+      <point x="106" y="699"/>
+      <point x="84" y="699" type="qcurve" smooth="yes"/>
+      <point x="62" y="699"/>
+      <point x="30" y="673"/>
+      <point x="30" y="636" type="qcurve" smooth="yes"/>
+      <point x="30" y="599"/>
+      <point x="62" y="573"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=r()</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
+</glyph>

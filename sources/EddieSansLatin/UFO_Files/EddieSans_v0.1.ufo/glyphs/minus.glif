@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus" format="2">
+  <advance width="349"/>
+  <unicode hex="2212"/>
+  <outline>
+    <contour>
+      <point x="0" y="268" type="line"/>
+      <point x="349" y="268" type="line"/>
+      <point x="349" y="354" type="line"/>
+      <point x="0" y="354" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=0</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=0</string>
+  </dict>
+  </lib>
+</glyph>

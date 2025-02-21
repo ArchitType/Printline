@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash" format="2">
+  <advance width="407"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="30" y="285" type="line"/>
+      <point x="377" y="285" type="line"/>
+      <point x="377" y="364" type="line"/>
+      <point x="30" y="364" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  </dict>
+  </lib>
+</glyph>

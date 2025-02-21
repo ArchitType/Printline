@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="2">
+  <advance width="392"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="149" y="-81" type="line"/>
+      <point x="246" y="-81" type="line"/>
+      <point x="246" y="52" type="line"/>
+      <point x="149" y="52" type="line"/>
+    </contour>
+    <contour>
+      <point x="149" y="656" type="line"/>
+      <point x="246" y="656" type="line"/>
+      <point x="246" y="789" type="line"/>
+      <point x="149" y="789" type="line"/>
+    </contour>
+    <contour>
+      <point x="203" y="-11" type="qcurve" smooth="yes"/>
+      <point x="280" y="-11"/>
+      <point x="362" y="95"/>
+      <point x="362" y="175" type="qcurve" smooth="yes"/>
+      <point x="362" y="217.75"/>
+      <point x="339.94" y="281.77"/>
+      <point x="304.311" y="331.784"/>
+      <point x="259.356" y="371.527"/>
+      <point x="236.461" y="390" type="qcurve" smooth="yes"/>
+      <point x="215.668" y="406.777"/>
+      <point x="176.888" y="441.097"/>
+      <point x="146.987" y="481.458"/>
+      <point x="129" y="530.5"/>
+      <point x="129" y="562" type="qcurve" smooth="yes"/>
+      <point x="129" y="605"/>
+      <point x="163.737" y="650"/>
+      <point x="190.534" y="650" type="qcurve" smooth="yes"/>
+      <point x="221.301" y="650"/>
+      <point x="261" y="592"/>
+      <point x="261" y="488" type="qcurve"/>
+      <point x="347" y="488" type="line"/>
+      <point x="347" y="595"/>
+      <point x="277" y="719"/>
+      <point x="199" y="719" type="qcurve" smooth="yes"/>
+      <point x="132" y="719"/>
+      <point x="43" y="624"/>
+      <point x="43" y="547" type="qcurve" smooth="yes"/>
+      <point x="43" y="506.125"/>
+      <point x="65.5689" y="442.276"/>
+      <point x="101.873" y="390.293"/>
+      <point x="147.494" y="347.16"/>
+      <point x="170.547" y="327" type="qcurve" smooth="yes"/>
+      <point x="190.806" y="309.284"/>
+      <point x="228.824" y="270.572"/>
+      <point x="258.24" y="228.231"/>
+      <point x="276" y="182.087"/>
+      <point x="276" y="156.94" type="qcurve" smooth="yes"/>
+      <point x="276" y="121"/>
+      <point x="237.761" y="58"/>
+      <point x="201.535" y="58" type="qcurve" smooth="yes"/>
+      <point x="160.277" y="58"/>
+      <point x="116" y="150"/>
+      <point x="116" y="255" type="qcurve"/>
+      <point x="30" y="255" type="line"/>
+      <point x="30" y="126"/>
+      <point x="118" y="-11"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  </dict>
+  </lib>
+</glyph>
