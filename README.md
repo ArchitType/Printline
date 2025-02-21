@@ -1,5 +1,5 @@
 # Eddie Sans
-------
+![Eddie](image.png)
 
 Eddie Sans is a  work in progress condensed typeface with a bold personality. Inspired by interchangeable letter boards and the charm of mid-century hand-painted signs, Eddie stands out with its large x-height and expressive character. 
 #### Character set
