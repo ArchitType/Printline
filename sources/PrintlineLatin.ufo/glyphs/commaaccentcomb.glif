@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb" format="2">
+  <unicode hex="0326"/>
+  <anchor x="75" y="0" name="_ced"/>
+  <outline>
+    <component base="comma" xOffset="-5" yOffset="-171.475"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>space+^comma%</string>
+  </dict>
+  </lib>
+</glyph>

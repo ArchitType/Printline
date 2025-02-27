@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ugrave" format="2">
+  <advance width="397"/>
+  <unicode hex="00D9"/>
+  <anchor x="198.5" y="700" name="top"/>
+  <anchor x="198.5" y="0.298" name="ced"/>
+  <outline>
+    <component base="U"/>
+    <component base="grave" xOffset="71.1013"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=U</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=U</string>
+  <key>com.fontlab.recipe</key>
+  <string>U+grave</string>
+  </dict>
+  </lib>
+</glyph>

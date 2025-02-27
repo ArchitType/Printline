@@ -1,0 +1,5 @@
+*.vfbak
+*.pyc
+.DS_Store
+
+test/*

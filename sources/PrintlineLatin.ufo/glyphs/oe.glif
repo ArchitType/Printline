@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe" format="2">
+  <advance width="551"/>
+  <unicode hex="0153"/>
+  <anchor x="386" y="500" name="top"/>
+  <anchor x="386" y="10" name="ced"/>
+  <anchor x="401.208" y="10" name="ogonek"/>
+  <outline>
+    <component base="o"/>
+    <component base="e" xOffset="221"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=e</string>
+  <key>com.fontlab.recipe</key>
+  <string>o_e</string>
+  </dict>
+  </lib>
+</glyph>

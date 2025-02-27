@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar" format="2">
+  <advance width="341"/>
+  <unicode hex="0127"/>
+  <outline>
+    <component base="h"/>
+    <component base="macron" xOffset="-10.5" yOffset="-218.454"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=h</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=h</string>
+  <key>com.fontlab.recipe</key>
+  <string>h+macron</string>
+  </dict>
+  </lib>
+</glyph>

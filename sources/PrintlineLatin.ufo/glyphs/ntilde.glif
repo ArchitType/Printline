@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ntilde" format="2">
+  <advance width="341"/>
+  <unicode hex="00F1"/>
+  <anchor x="170.5" y="500" name="top"/>
+  <outline>
+    <component base="n"/>
+    <component base="tilde" xOffset="32.5" yOffset="-200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  <key>com.fontlab.recipe</key>
+  <string>n+tilde</string>
+  </dict>
+  </lib>
+</glyph>

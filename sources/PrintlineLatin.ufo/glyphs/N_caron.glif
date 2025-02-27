@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncaron" format="2">
+  <advance width="391"/>
+  <unicode hex="0147"/>
+  <anchor x="195.5" y="700" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="caron" xOffset="37.5" yOffset="-0.0016"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=N</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=N</string>
+  <key>com.fontlab.recipe</key>
+  <string>N+caron</string>
+  </dict>
+  </lib>
+</glyph>

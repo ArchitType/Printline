@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae" format="2">
+  <advance width="522"/>
+  <unicode hex="00E6"/>
+  <outline>
+    <component base="a" yOffset="0.2462"/>
+    <component base="e" xOffset="192"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=a</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=e</string>
+  <key>com.fontlab.recipe</key>
+  <string>a_e</string>
+  </dict>
+  </lib>
+</glyph>

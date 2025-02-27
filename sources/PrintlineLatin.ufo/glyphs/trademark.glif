@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="2">
+  <advance width="604"/>
+  <unicode hex="2122"/>
+  <anchor x="113" y="700" name="top"/>
+  <anchor x="113" y="0.4974" name="ced"/>
+  <outline>
+    <contour>
+      <point x="70" y="300" type="line"/>
+      <point x="156" y="300" type="line"/>
+      <point x="156" y="681" type="line"/>
+      <point x="226" y="681" type="line"/>
+      <point x="226" y="750" type="line"/>
+      <point x="0" y="750" type="line"/>
+      <point x="0" y="681" type="line"/>
+      <point x="70" y="681" type="line"/>
+    </contour>
+    <contour>
+      <point x="517" y="300.35" type="line"/>
+      <point x="603.4" y="300.35" type="line"/>
+      <point x="603.4" y="750" type="line"/>
+      <point x="471" y="750" type="line"/>
+      <point x="431" y="369" type="line"/>
+      <point x="390" y="750" type="line"/>
+      <point x="261.45" y="750" type="line"/>
+      <point x="261.45" y="300.35" type="line"/>
+      <point x="347.8" y="300.35" type="line"/>
+      <point x="347.8" y="582" type="line"/>
+      <point x="370" y="300" type="line"/>
+      <point x="492" y="300" type="line"/>
+      <point x="517" y="602.632" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=0</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=0</string>
+  <key>com.fontlab.recipe</key>
+  <string>T_M%</string>
+  </dict>
+  </lib>
+</glyph>

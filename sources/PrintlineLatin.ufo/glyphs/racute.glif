@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="racute" format="2">
+  <advance width="213"/>
+  <unicode hex="0155"/>
+  <anchor x="121.5" y="500" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="acutecomb" xOffset="47.1396" yOffset="-200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=r</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=r</string>
+  <key>com.fontlab.recipe</key>
+  <string>r+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

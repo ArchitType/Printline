@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="amacron" format="2">
+  <advance width="323"/>
+  <unicode hex="0101"/>
+  <anchor x="160" y="500" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="macron" xOffset="69.5" yOffset="-200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=a</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=a</string>
+  <key>com.fontlab.recipe</key>
+  <string>a+macron</string>
+  </dict>
+  </lib>
+</glyph>

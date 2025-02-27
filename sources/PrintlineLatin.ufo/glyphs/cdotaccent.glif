@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cdotaccent" format="2">
+  <advance width="330"/>
+  <unicode hex="010B"/>
+  <anchor x="171" y="0" name="ced"/>
+  <anchor x="172.57" y="500" name="top"/>
+  <outline>
+    <component base="c"/>
+    <component base="dotaccent" xOffset="122.57" yOffset="-200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=c</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=c</string>
+  <key>com.fontlab.recipe</key>
+  <string>c+dotaccent</string>
+  </dict>
+  </lib>
+</glyph>

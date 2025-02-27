@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute" format="2">
+  <advance width="146"/>
+  <unicode hex="00ED"/>
+  <anchor x="73" y="499.761" name="top"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="acutecomb" xOffset="-1.3604" yOffset="-200.239"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=i</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=i</string>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

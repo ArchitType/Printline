@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sterling" format="2">
+  <advance width="417"/>
+  <unicode hex="00A3"/>
+  <outline>
+    <contour>
+      <point x="93.0887" y="174.565" type="line"/>
+      <point x="93.0995" y="131.024"/>
+      <point x="74.4479" y="68.9989"/>
+      <point x="57.5291" y="69" type="qcurve"/>
+      <point x="40" y="69" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="381" y="0" type="line"/>
+      <point x="381" y="69" type="line"/>
+      <point x="149" y="69" type="line"/>
+      <point x="169.456" y="69"/>
+      <point x="179" y="155.549"/>
+      <point x="179" y="176.663" type="qcurve"/>
+      <point x="179" y="550" type="line"/>
+      <point x="179" y="596.9"/>
+      <point x="213.75" y="646"/>
+      <point x="240.55" y="646" type="qcurve" smooth="yes"/>
+      <point x="271.3" y="646"/>
+      <point x="311" y="588"/>
+      <point x="311" y="534" type="qcurve"/>
+      <point x="397" y="534" type="line"/>
+      <point x="397" y="591"/>
+      <point x="327" y="715"/>
+      <point x="250.106" y="715" type="qcurve" smooth="yes"/>
+      <point x="182" y="715"/>
+      <point x="92.9799" y="614.7"/>
+      <point x="93" y="533.4" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="50" y="335" type="line"/>
+      <point x="297" y="335" type="line"/>
+      <point x="297" y="414" type="line"/>
+      <point x="50" y="414" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=L</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=S</string>
+  <key>com.fontlab.recipe</key>
+  <string>L+^hyphen%</string>
+  </dict>
+  </lib>
+</glyph>

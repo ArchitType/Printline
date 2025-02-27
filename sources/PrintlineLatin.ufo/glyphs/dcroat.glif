@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="2">
+  <advance width="340"/>
+  <unicode hex="0111"/>
+  <outline>
+    <component base="d"/>
+    <component base="macron" xOffset="179" yOffset="-209.124"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=d</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=d</string>
+  <key>com.fontlab.recipe</key>
+  <string>d+>50macron%</string>
+  </dict>
+  </lib>
+</glyph>

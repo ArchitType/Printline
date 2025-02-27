@@ -1,0 +1,50 @@
+FONTLOG for Printline
+
+This file provides detailed information on the Printline Font Software.
+
+This information should be distributed along with the Printline fonts and any derivative works.
+
+Basic Font Information
+
+Printline is a work-in-progress condensed typeface with a bold personality. Inspired by interchangeable letter boards and the charm of mid-century hand-painted signs, Printline stands out with its large x-height and expressive character. Printline is currently in beta. The typeface works best in larger text like headers and subheadings, making it well-suited for branding and packaging. Printline is an ongoing project, with future plans to expand its language support and refine its spacing and kerning for optimal usability.
+
+To report issues or contribute to the project, see the source repository:
+https://github.com/ArchitType/EddieSans
+
+ChangeLog
+27 February 2025 (Archit Pujar) v0.2 Beta
+
+-Renamed Eddie Sans to Printline due to naming conflict.
+
+-Expanded to Core Latin glyph set defined by google fonts.
+
+-Crossbars are now more consistent.
+
+-Added basic soft dotting (needs refinement).
+
+21 February 2025 (Archit Pujar) v0.1 Beta
+
+-Initial beta release of Eddie Sans
+
+-Includes core character set with uppercase, lowercase, numerals, punctuation, and basic symbols
+
+-Includes basic kerning and spacing.
+
+Planned Updates:
+
+-Reworking M,N,W,Y, spacing and the kerning.
+
+-Additional weights ranging from Extra Light to Black
+
+-Italic styles and variable font support
+
+-Submission to Google Fonts
+
+Acknowledgements
+
+If you make modifications, be sure to add your name (N), email (E), web address (if you have one) (W), and description (D). This list is in alphabetical order.
+
+N: Archit Pujar
+E: archittype@gmail.com
+W: architpjr.framer.website
+D: Designer & Developer of Eddie Sans

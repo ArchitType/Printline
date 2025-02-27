@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="egrave" format="2">
+  <advance width="330"/>
+  <unicode hex="00E8"/>
+  <anchor x="165" y="500" name="top"/>
+  <anchor x="165" y="10" name="ced"/>
+  <anchor x="180.208" y="10" name="ogonek"/>
+  <outline>
+    <component base="e"/>
+    <component base="grave" xOffset="37.6013" yOffset="-200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=e</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=e</string>
+  <key>com.fontlab.recipe</key>
+  <string>e+grave</string>
+  </dict>
+  </lib>
+</glyph>
