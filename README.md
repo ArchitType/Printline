@@ -14,7 +14,7 @@ Keep in mind this is a rough roadmap
 Printline is currently in beta. If you encounter any issues or have suggestions for additions to the typeface, feel free to reach out at archittype@gmail.com
 
 # Releases
-Latest releases can be found on the [releases page]()
+Latest releases can be found on the [releases page](https://github.com/ArchitType/Printline)
 
 # License
 Printline is licensed under the SIL Open Font License v1.1 ([http://scripts.sil.org/OFL](http://scripts.sil.org/OFL)).
