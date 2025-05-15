@@ -12,7 +12,19 @@ To report issues or contribute to the project, see the source repository:
 https://github.com/ArchitType/EddieSans
 
 ChangeLog
+15 April 2025 (Archit Pujar) v0.3.0 Beta
+------------------------------
+
+- Printline is now a variable font
+	- Regular is now mapped as black.
+	- Added new Light and Regular masters.
+
+- Added build.sh and config.yaml to build the fonts from sources.
+
+- Restructured file structure to be cleaner and comply with Google Fonts.
+
 27 February 2025 (Archit Pujar) v0.2 Beta
+------------------------------
 
 -Renamed Eddie Sans to Printline due to naming conflict.
 
@@ -23,6 +35,7 @@ ChangeLog
 -Added basic soft dotting (needs refinement).
 
 21 February 2025 (Archit Pujar) v0.1 Beta
+------------------------------
 
 -Initial beta release of Eddie Sans
 
@@ -31,14 +44,13 @@ ChangeLog
 -Includes basic kerning and spacing.
 
 Planned Updates:
+------------------------------
 
--Reworking M,N,W,Y, spacing and the kerning.
+-Fixes to axes.
 
--Additional weights ranging from Extra Light to Black
+-Respacing and kerning.
 
--Italic styles and variable font support
-
--Submission to Google Fonts
+-Submission to Google Fonts.
 
 Acknowledgements
 

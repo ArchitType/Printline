@@ -7,7 +7,7 @@ Printline currently has the Core Latin glyphset, basic soft dotting has been imp
 # Roadmap
 Keep in mind this is a rough roadmap
 - ~~Expansion of the Latin character set~~
-- Addition of weight
+- ~~Addition of weight~~ 
 - Possible addition of support for the Devanagari script
 
 # Feedback
