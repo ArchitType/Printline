@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Igrave" format="2">
+  <advance width="116"/>
+  <unicode hex="00CC"/>
+  <anchor x="58" y="700" name="top"/>
+  <anchor x="53" y="0" name="ced"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="76" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="47.9952" y="750" type="line"/>
+      <point x="71.1726" y="750" type="line"/>
+      <point x="24.6082" y="890" type="line"/>
+      <point x="-11.0349" y="890" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>I+gravecomb</string>
+  </dict>
+  </lib>
+</glyph>

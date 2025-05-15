@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="2">
+  <advance width="350"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="40.4566" y="0" type="line"/>
+      <point x="95.2066" y="0" type="line"/>
+      <point x="95.2066" y="162" type="line"/>
+      <point x="159.679" y="162" type="line" smooth="yes"/>
+      <point x="329.457" y="162"/>
+      <point x="329.457" y="358.8" type="qcurve" smooth="yes"/>
+      <point x="329.457" y="550"/>
+      <point x="172.574" y="550" type="qcurve" smooth="yes"/>
+      <point x="95.2066" y="550" type="line"/>
+      <point x="95.2066" y="700" type="line"/>
+      <point x="40.4566" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="95.2066" y="206" type="line"/>
+      <point x="95.2066" y="506" type="line"/>
+      <point x="158.437" y="506" type="line" smooth="yes"/>
+      <point x="278.457" y="506"/>
+      <point x="278.457" y="353.12" type="qcurve" smooth="yes"/>
+      <point x="278.457" y="206"/>
+      <point x="164.465" y="206" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=P</string>
+  </dict>
+  </lib>
+</glyph>

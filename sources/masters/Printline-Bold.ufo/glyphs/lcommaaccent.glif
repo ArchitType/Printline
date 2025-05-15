@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcommaaccent" format="2">
+  <advance width="186"/>
+  <unicode hex="013C"/>
+  <anchor x="73" y="750" name="top"/>
+  <outline>
+    <contour>
+      <point x="30" y="750" type="line"/>
+      <point x="30" y="130.817" type="line"/>
+      <point x="30" y="56.9144"/>
+      <point x="79" y="-8"/>
+      <point x="156" y="-8" type="qcurve"/>
+      <point x="156" y="71" type="line"/>
+      <point x="130" y="69.0029"/>
+      <point x="116" y="97.9603"/>
+      <point x="116" y="142.894" type="qcurve"/>
+      <point x="116" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="-96.9927" type="qcurve" smooth="yes"/>
+      <point x="43" y="-156.475"/>
+      <point x="91" y="-156.475" type="qcurve"/>
+      <point x="67" y="-241.475" type="line"/>
+      <point x="101" y="-241.475" type="line"/>
+      <point x="143" y="-163.075"/>
+      <point x="143" y="-104.192" type="qcurve" smooth="yes"/>
+      <point x="143" y="-41.4754"/>
+      <point x="93.4653" y="-41.4754" type="qcurve" smooth="yes"/>
+      <point x="72" y="-41.4754"/>
+      <point x="43" y="-65.4754"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=l</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=l</string>
+  <key>com.fontlab.recipe</key>
+  <string>l+uni0326</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="otilde" format="2">
+  <advance width="291"/>
+  <unicode hex="00F5"/>
+  <anchor x="165.5" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="145.957" y="-5" type="qcurve" smooth="yes"/>
+      <point x="203.204" y="-5"/>
+      <point x="276" y="138.245"/>
+      <point x="276" y="255.229" type="qcurve" smooth="yes"/>
+      <point x="276" y="372.736"/>
+      <point x="202.316" y="515"/>
+      <point x="145.563" y="515" type="qcurve" smooth="yes"/>
+      <point x="88.6837" y="515"/>
+      <point x="15" y="372.736"/>
+      <point x="15" y="255.545" type="qcurve" smooth="yes"/>
+      <point x="15" y="138.245"/>
+      <point x="88.6837" y="-5"/>
+    </contour>
+    <contour>
+      <point x="145.563" y="24" type="qcurve" smooth="yes"/>
+      <point x="102.158" y="24"/>
+      <point x="51" y="150.107"/>
+      <point x="51" y="255.131" type="qcurve" smooth="yes"/>
+      <point x="51" y="359.893"/>
+      <point x="102.158" y="486"/>
+      <point x="145.521" y="486" type="qcurve" smooth="yes"/>
+      <point x="188.842" y="486"/>
+      <point x="240" y="359.893"/>
+      <point x="240" y="255.131" type="qcurve" smooth="yes"/>
+      <point x="240" y="150.107"/>
+      <point x="188.842" y="24"/>
+    </contour>
+    <contour>
+      <point x="76.5" y="550" type="line"/>
+      <point x="76.5" y="620.663"/>
+      <point x="96.6043" y="620.663" type="qcurve" smooth="yes"/>
+      <point x="112.816" y="620.663"/>
+      <point x="156.026" y="550"/>
+      <point x="186.351" y="550" type="qcurve" smooth="yes"/>
+      <point x="221.512" y="550"/>
+      <point x="262.372" y="600.081"/>
+      <point x="262.5" y="662.105" type="qcurve"/>
+      <point x="213.5" y="662.105" type="line"/>
+      <point x="213.5" y="589.337"/>
+      <point x="192.274" y="589.337" type="qcurve" smooth="yes"/>
+      <point x="175.69" y="589.337"/>
+      <point x="129.592" y="660"/>
+      <point x="99.4909" y="660" type="qcurve" smooth="yes"/>
+      <point x="64.6567" y="660"/>
+      <point x="27.5" y="610.341"/>
+      <point x="27.5" y="550" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  <key>com.fontlab.recipe</key>
+  <string>o+tilde</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcaron" format="2">
+  <advance width="330"/>
+  <unicode hex="010E"/>
+  <anchor x="168" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="151.661" y="0" type="line" smooth="yes"/>
+      <point x="239.525" y="0"/>
+      <point x="310" y="199"/>
+      <point x="310" y="350" type="qcurve" smooth="yes"/>
+      <point x="310" y="503"/>
+      <point x="238.61" y="700"/>
+      <point x="148.915" y="700" type="qcurve" smooth="yes"/>
+      <point x="40" y="700" type="line"/>
+      <point x="40" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="94.75" y="44" type="line"/>
+      <point x="94.75" y="656" type="line"/>
+      <point x="158.689" y="656" type="line" smooth="yes"/>
+      <point x="214.799" y="656"/>
+      <point x="255.25" y="479.587"/>
+      <point x="255.25" y="350.395" type="qcurve" smooth="yes"/>
+      <point x="255.25" y="223.68"/>
+      <point x="217.409" y="44"/>
+      <point x="165.213" y="44" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="196.654" y="749.998" type="line"/>
+      <point x="272" y="883.998" type="line"/>
+      <point x="217.25" y="883.998" type="line"/>
+      <point x="167.5" y="787.998" type="line"/>
+      <point x="117.75" y="883.998" type="line"/>
+      <point x="63" y="883.998" type="line"/>
+      <point x="138.346" y="749.998" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=D</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=D</string>
+  <key>com.fontlab.recipe</key>
+  <string>D+caron</string>
+  </dict>
+  </lib>
+</glyph>

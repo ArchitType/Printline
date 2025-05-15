@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="2">
+  <advance width="312"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <component base="question" yScale="-1" yOffset="500.5"/>
+  </outline>
+  <guideline angle="0" x="0" y="-311"/>
+  <guideline angle="0" x="0" y="-311"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  </dict>
+  </lib>
+</glyph>

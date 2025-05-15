@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uogonek" format="2">
+  <advance width="372"/>
+  <unicode hex="0172"/>
+  <anchor x="186" y="700" name="top"/>
+  <anchor x="186" y="0.298" name="ced"/>
+  <anchor x="210.845" y="0.9972" name="ogonek"/>
+  <outline>
+    <component base="U"/>
+    <component base="ogonek" xOffset="122"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=U</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=U</string>
+  <key>com.fontlab.recipe</key>
+  <string>U+>ogonek</string>
+  </dict>
+  </lib>
+</glyph>

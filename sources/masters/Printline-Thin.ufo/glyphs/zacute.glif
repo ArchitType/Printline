@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zacute" format="2">
+  <advance width="271"/>
+  <unicode hex="017A"/>
+  <anchor x="135.5" y="500" name="top"/>
+  <outline>
+    <component base="z"/>
+    <component base="acutecomb" xOffset="61.1396" yOffset="-200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=z</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=z</string>
+  <key>com.fontlab.recipe</key>
+  <string>z+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b" format="2">
+  <advance width="315"/>
+  <unicode hex="0062"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="84.75" y="0" type="line"/>
+      <point x="84.75" y="37.95" type="line"/>
+      <point x="116.7" y="-5"/>
+      <point x="166.75" y="-5" type="qcurve" smooth="yes"/>
+      <point x="227.75" y="-5"/>
+      <point x="300" y="115.75"/>
+      <point x="300" y="248.4" type="qcurve" smooth="yes"/>
+      <point x="300" y="369"/>
+      <point x="238.35" y="515"/>
+      <point x="173" y="515" type="qcurve" smooth="yes"/>
+      <point x="140.7" y="515"/>
+      <point x="95.55" y="479.65"/>
+      <point x="79.1" y="447.25" type="qcurve"/>
+      <point x="79.1" y="700" type="line"/>
+      <point x="30" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="159.95" y="36" type="qcurve" smooth="yes"/>
+      <point x="125" y="36"/>
+      <point x="84.75" y="104.95"/>
+      <point x="84.75" y="163.5" type="qcurve" smooth="yes"/>
+      <point x="84.75" y="295.2" type="line" smooth="yes"/>
+      <point x="84.75" y="471"/>
+      <point x="160.05" y="471" type="qcurve" smooth="yes"/>
+      <point x="243.75" y="471"/>
+      <point x="245.15" y="254.35" type="qcurve" smooth="yes"/>
+      <point x="246.55" y="36"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edieresis" format="2">
+  <advance width="252"/>
+  <unicode hex="00CB"/>
+  <anchor x="168.5" y="700" name="top"/>
+  <anchor x="229" y="0" name="ogonek"/>
+  <anchor x="175.5" y="0" name="ced"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="247" y="0" type="line"/>
+      <point x="247" y="29" type="line"/>
+      <point x="76" y="29" type="line"/>
+      <point x="76" y="342" type="line"/>
+      <point x="200" y="342" type="line"/>
+      <point x="200" y="371" type="line"/>
+      <point x="76" y="371" type="line"/>
+      <point x="76" y="671" type="line"/>
+      <point x="240" y="671" type="line"/>
+      <point x="240" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="25.5" y="780.964" type="qcurve" smooth="yes"/>
+      <point x="25.5" y="750.224"/>
+      <point x="54.7685" y="750.224" type="qcurve" smooth="yes"/>
+      <point x="83.5" y="750.224"/>
+      <point x="83.5" y="780.964" type="qcurve" smooth="yes"/>
+      <point x="83.5" y="811.224"/>
+      <point x="54.7685" y="811.224" type="qcurve" smooth="yes"/>
+      <point x="25.5" y="811.224"/>
+    </contour>
+    <contour>
+      <point x="232.947" y="780.964" type="qcurve" smooth="yes"/>
+      <point x="232.947" y="750.224"/>
+      <point x="262.215" y="750.224" type="qcurve" smooth="yes"/>
+      <point x="290.947" y="750.224"/>
+      <point x="290.947" y="780.964" type="qcurve" smooth="yes"/>
+      <point x="290.947" y="811.224"/>
+      <point x="262.215" y="811.224" type="qcurve" smooth="yes"/>
+      <point x="232.947" y="811.224"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=E</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=E</string>
+  <key>com.fontlab.recipe</key>
+  <string>E+dieresis</string>
+  </dict>
+  </lib>
+</glyph>

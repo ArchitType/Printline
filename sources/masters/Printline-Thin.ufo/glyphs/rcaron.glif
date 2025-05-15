@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcaron" format="2">
+  <advance width="163"/>
+  <unicode hex="0159"/>
+  <anchor x="92" y="500" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="caron" xOffset="-66" yOffset="-200"/>
+  </outline>
+  <guideline angle="0" x="0" y="550"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>r+caron</string>
+  </dict>
+  </lib>
+</glyph>

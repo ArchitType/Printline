@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="at" format="2">
+  <advance width="530"/>
+  <unicode hex="0040"/>
+  <outline>
+    <contour>
+      <point x="382.391" y="0" type="qcurve"/>
+      <point x="350" y="0" type="line"/>
+      <point x="350" y="44" type="line"/>
+      <point x="323.406" y="-6"/>
+      <point x="269.069" y="-6" type="qcurve" smooth="yes"/>
+      <point x="141" y="-6"/>
+      <point x="141" y="252.134" type="qcurve" smooth="yes"/>
+      <point x="141" y="506"/>
+      <point x="265.343" y="506" type="qcurve" smooth="yes"/>
+      <point x="317.745" y="506"/>
+      <point x="340" y="457.986" type="qcurve"/>
+      <point x="363" y="500.086" type="line"/>
+      <point x="384" y="500.086" type="line"/>
+      <point x="384" y="32.0162" type="line"/>
+      <point x="497" y="32.0162"/>
+      <point x="497" y="260.517" type="qcurve" smooth="yes"/>
+      <point x="497" y="625"/>
+      <point x="277.638" y="625" type="qcurve" smooth="yes"/>
+      <point x="33" y="625"/>
+      <point x="33" y="246.625" type="qcurve" smooth="yes"/>
+      <point x="33" y="-128"/>
+      <point x="272.748" y="-128" type="qcurve"/>
+      <point x="272.748" y="-160" type="line"/>
+      <point x="0" y="-160"/>
+      <point x="0" y="223.756" type="qcurve" smooth="yes"/>
+      <point x="0" y="657"/>
+      <point x="281.823" y="657" type="qcurve" smooth="yes"/>
+      <point x="530" y="657"/>
+      <point x="530" y="264.087" type="qcurve" smooth="yes"/>
+      <point x="530" y="0"/>
+    </contour>
+    <contour>
+      <point x="272.471" y="477" type="qcurve" smooth="yes"/>
+      <point x="177" y="477"/>
+      <point x="177" y="251.425" type="qcurve" smooth="yes"/>
+      <point x="177" y="26"/>
+      <point x="273.288" y="26" type="qcurve" smooth="yes"/>
+      <point x="348" y="26"/>
+      <point x="348" y="155.205" type="qcurve"/>
+      <point x="348" y="341.7" type="line"/>
+      <point x="348" y="477"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=0</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=0</string>
+  </dict>
+  </lib>
+</glyph>

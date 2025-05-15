@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="2">
+  <advance width="150"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="70.3382" y="750" type="line"/>
+      <point x="118.75" y="890" type="line"/>
+      <point x="63.7867" y="890" type="line"/>
+      <point x="33.1166" y="750" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>space+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

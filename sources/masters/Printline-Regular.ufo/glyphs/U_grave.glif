@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ugrave" format="2">
+  <advance width="372"/>
+  <unicode hex="00D9"/>
+  <anchor x="198.5" y="700" name="top"/>
+  <anchor x="198.5" y="0.298" name="ced"/>
+  <outline>
+    <contour>
+      <point x="40" y="160" type="line" smooth="yes"/>
+      <point x="40" y="79.4939"/>
+      <point x="115.895" y="-21"/>
+      <point x="184.241" y="-21" type="qcurve" smooth="yes"/>
+      <point x="253.144" y="-21"/>
+      <point x="332" y="79.4939"/>
+      <point x="332" y="160" type="qcurve" smooth="yes"/>
+      <point x="332" y="700" type="line"/>
+      <point x="277.25" y="700" type="line"/>
+      <point x="277.25" y="152.5" type="line" smooth="yes"/>
+      <point x="277.25" y="22.9918"/>
+      <point x="185.754" y="22.9945" type="qcurve" smooth="yes"/>
+      <point x="94.75" y="22.9918"/>
+      <point x="94.75" y="152.5" type="qcurve" smooth="yes"/>
+      <point x="94.75" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="206.573" y="750" type="line"/>
+      <point x="244.375" y="750" type="line"/>
+      <point x="197.811" y="890" type="line"/>
+      <point x="143.418" y="890" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=U</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=U</string>
+  <key>com.fontlab.recipe</key>
+  <string>U+grave</string>
+  </dict>
+  </lib>
+</glyph>

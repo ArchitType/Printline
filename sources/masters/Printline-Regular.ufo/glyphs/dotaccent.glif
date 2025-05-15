@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="2">
+  <advance width="60"/>
+  <unicode hex="02D9"/>
+  <anchor x="30" y="700" name="_top"/>
+  <outline>
+    <contour>
+      <point x="0" y="788.173" type="qcurve" smooth="yes"/>
+      <point x="0" y="750"/>
+      <point x="30" y="750" type="qcurve" smooth="yes"/>
+      <point x="60" y="750"/>
+      <point x="60" y="788.173" type="qcurve" smooth="yes"/>
+      <point x="60" y="825.75"/>
+      <point x="30" y="825.75" type="qcurve" smooth="yes"/>
+      <point x="0" y="825.75"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=0</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=0</string>
+  <key>com.fontlab.recipe</key>
+  <string>space+uni0307</string>
+  </dict>
+  </lib>
+</glyph>

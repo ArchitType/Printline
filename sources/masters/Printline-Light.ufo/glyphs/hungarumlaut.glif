@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="300"/>
+  <unicode hex="02DD"/>
+  <anchor x="121" y="700" name="_top"/>
+  <outline>
+    <contour>
+      <point x="65.3382" y="750" type="line"/>
+      <point x="110" y="890" type="line"/>
+      <point x="73.7867" y="890" type="line"/>
+      <point x="43.1166" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="195.338" y="750" type="line"/>
+      <point x="240" y="890" type="line"/>
+      <point x="203.787" y="890" type="line"/>
+      <point x="173.117" y="750" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>acute_acute%</string>
+  </dict>
+  </lib>
+</glyph>

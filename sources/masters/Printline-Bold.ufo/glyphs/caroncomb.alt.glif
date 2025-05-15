@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb.alt" format="2">
+  <anchor x="-37" y="700.002" name="_top"/>
+  <outline>
+    <contour>
+      <point x="72.1063" y="652.258" type="qcurve" smooth="yes"/>
+      <point x="72.1063" y="592.775"/>
+      <point x="120.106" y="592.775" type="qcurve"/>
+      <point x="96.1063" y="507.775" type="line"/>
+      <point x="130.106" y="507.775" type="line"/>
+      <point x="172.106" y="586.175"/>
+      <point x="172.106" y="645.058" type="qcurve" smooth="yes"/>
+      <point x="172.106" y="707.775"/>
+      <point x="122.572" y="707.775" type="qcurve" smooth="yes"/>
+      <point x="101.106" y="707.775"/>
+      <point x="72.1063" y="683.775"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="1249"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>caroncomb</string>
+  </dict>
+  </lib>
+</glyph>

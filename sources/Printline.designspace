@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis tag="wght" maximum="900" name="weight" minimum="100" default="900">
+   <labelname xml:lang="en">Weight</labelname>
+   <map output="100" input="100"/>
+   <map output="400" input="400"/>
+   <map output="900" input="900"/>
+  </axis>
+ </axes>
+ <sources>
+  <source filename="masters/Printline-Black.ufo" name="Black" familyname="Printline" stylename="Black">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </source>
+  <source filename="masters/Printline-Regular.ufo" name="Regular" familyname="Printline" stylename="Regular">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </source>
+  <source filename="masters/Printline-Thin.ufo" name="Thin" familyname="Printline" stylename="Thin">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </source>
+ </sources>
+ <instances>
+  <instance filename="instances/Printline-Thin.ufo" name="Thin" familyname="Printline" stylename="Thin">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </instance>
+  <instance filename="instances/Printline-Regular.ufo" name="Regular" familyname="Printline" stylename="Regular">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance filename="instances/Printline-Black.ufo" name="Black" familyname="Printline" stylename="Black">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otilde" format="2">
+  <advance width="347"/>
+  <unicode hex="00D5"/>
+  <anchor x="173.25" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="173.702" y="-15" type="qcurve" smooth="yes"/>
+      <point x="249.649" y="-15"/>
+      <point x="326.5" y="192"/>
+      <point x="326.5" y="349.346" type="qcurve" smooth="yes"/>
+      <point x="326.5" y="514"/>
+      <point x="242.323" y="721"/>
+      <point x="173.702" y="721" type="qcurve" smooth="yes"/>
+      <point x="105.081" y="721"/>
+      <point x="20" y="514"/>
+      <point x="20" y="349.385" type="qcurve" smooth="yes"/>
+      <point x="20" y="192"/>
+      <point x="97.7552" y="-15"/>
+    </contour>
+    <contour>
+      <point x="173.907" y="29" type="qcurve" smooth="yes"/>
+      <point x="120.468" y="29"/>
+      <point x="77" y="216.465"/>
+      <point x="77" y="349.055" type="qcurve" smooth="yes"/>
+      <point x="77" y="489.535"/>
+      <point x="126.585" y="677"/>
+      <point x="173.873" y="677" type="qcurve" smooth="yes"/>
+      <point x="221.102" y="677"/>
+      <point x="269.5" y="490.619"/>
+      <point x="269.5" y="348.884" type="qcurve" smooth="yes"/>
+      <point x="269.5" y="215.381"/>
+      <point x="227.274" y="29"/>
+    </contour>
+    <contour>
+      <point x="103.921" y="750" type="line"/>
+      <point x="103.921" y="809.413"/>
+      <point x="124.974" y="809.413" type="qcurve" smooth="yes"/>
+      <point x="141.95" y="809.413"/>
+      <point x="187.197" y="750"/>
+      <point x="217.522" y="750" type="qcurve" smooth="yes"/>
+      <point x="252.683" y="750"/>
+      <point x="297.281" y="800.081"/>
+      <point x="297.421" y="862.105" type="qcurve"/>
+      <point x="240.921" y="862.105" type="line"/>
+      <point x="240.921" y="800.587"/>
+      <point x="218.747" y="800.587" type="qcurve" smooth="yes"/>
+      <point x="201.422" y="800.587"/>
+      <point x="153.263" y="860"/>
+      <point x="123.162" y="860" type="qcurve" smooth="yes"/>
+      <point x="88.328" y="860"/>
+      <point x="47.4213" y="810.341"/>
+      <point x="47.4213" y="750" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>O+tildecomb</string>
+  </dict>
+  </lib>
+</glyph>

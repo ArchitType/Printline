@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="2">
+  <advance width="291"/>
+  <unicode hex="006E"/>
+  <anchor x="150.5" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="66" y="234.283" type="line" smooth="yes"/>
+      <point x="66" y="400.108"/>
+      <point x="105.09" y="486"/>
+      <point x="150.104" y="486" type="qcurve" smooth="yes"/>
+      <point x="201.451" y="486"/>
+      <point x="225" y="386.839"/>
+      <point x="225" y="234.283" type="qcurve" smooth="yes"/>
+      <point x="225" y="0" type="line"/>
+      <point x="261" y="0" type="line"/>
+      <point x="261" y="299" type="line" smooth="yes"/>
+      <point x="261" y="432"/>
+      <point x="208.364" y="515"/>
+      <point x="161.579" y="515" type="qcurve" smooth="yes"/>
+      <point x="132.641" y="515"/>
+      <point x="83.6986" y="485.873"/>
+      <point x="68" y="456" type="qcurve"/>
+      <point x="62" y="500" type="line"/>
+      <point x="30" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth" format="2">
+  <advance width="312"/>
+  <unicode hex="00F0"/>
+  <outline>
+    <contour>
+      <point x="136.997" y="673.85" type="line"/>
+      <point x="245.25" y="526.889"/>
+      <point x="248.25" y="381.649" type="qcurve"/>
+      <point x="220.507" y="451"/>
+      <point x="152.192" y="451" type="qcurve" smooth="yes"/>
+      <point x="15" y="451"/>
+      <point x="15" y="220.052" type="qcurve" smooth="yes"/>
+      <point x="15" y="-15"/>
+      <point x="154.043" y="-15" type="qcurve" smooth="yes"/>
+      <point x="303" y="-15"/>
+      <point x="303" y="297.851" type="qcurve" smooth="yes"/>
+      <point x="303" y="524.064"/>
+      <point x="175" y="699.961" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="156.965" y="32.75" type="qcurve" smooth="yes"/>
+      <point x="69.75" y="32.75"/>
+      <point x="69.75" y="221.941" type="qcurve" smooth="yes"/>
+      <point x="69.75" y="407"/>
+      <point x="157.089" y="407" type="qcurve" smooth="yes"/>
+      <point x="200.045" y="407"/>
+      <point x="245.25" y="304.599"/>
+      <point x="245.25" y="217.965" type="qcurve" smooth="yes"/>
+      <point x="245.25" y="32.75"/>
+    </contour>
+    <contour>
+      <point x="89.5" y="551.125" type="line"/>
+      <point x="109" y="508.566" type="line"/>
+      <point x="307" y="599.75" type="line"/>
+      <point x="288.5" y="642.125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=F</string>
+  </dict>
+  </lib>
+</glyph>

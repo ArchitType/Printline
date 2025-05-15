@@ -1,6 +1,6 @@
 # Printline
 ------
-![Printline](image.png)
+![Printline](documentation/image.png)
 Printline (previously Eddie Sans) is a work in progress condensed typeface with a bold personality. Inspired by interchangeable letter boards and the charm of mid-century hand-painted signs, Printline stands out with its large x-height and expressive character. 
 # Character set
 Printline currently has the Core Latin glyphset, basic soft dotting has been implemented but it might cause problems in with larger combinations.

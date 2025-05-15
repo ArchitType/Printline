@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_f" format="2">
+  <advance width="324"/>
+  <unicode hex="FB00"/>
+  <outline>
+    <contour>
+      <point x="47" y="0" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="83" y="471" type="line"/>
+      <point x="175" y="471" type="line"/>
+      <point x="175" y="500" type="line"/>
+      <point x="84" y="500" type="line"/>
+      <point x="84" y="595.548"/>
+      <point x="108.649" y="686"/>
+      <point x="157" y="686" type="qcurve"/>
+      <point x="157" y="715" type="line"/>
+      <point x="93.9308" y="715"/>
+      <point x="48" y="630.303"/>
+      <point x="48" y="554.453" type="qcurve" smooth="yes"/>
+      <point x="48" y="500"/>
+      <point x="0" y="500" type="qcurve"/>
+      <point x="0" y="471" type="line"/>
+      <point x="47" y="471" type="line"/>
+    </contour>
+    <contour>
+      <point x="214" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="250" y="471" type="line"/>
+      <point x="312" y="471" type="line"/>
+      <point x="312" y="500" type="line"/>
+      <point x="251" y="500" type="line"/>
+      <point x="251" y="595.548"/>
+      <point x="275.649" y="686"/>
+      <point x="324" y="686" type="qcurve"/>
+      <point x="324" y="715" type="line"/>
+      <point x="260.931" y="715"/>
+      <point x="215" y="630.303"/>
+      <point x="215" y="554.453" type="qcurve" smooth="yes"/>
+      <point x="215" y="500"/>
+      <point x="167" y="500" type="qcurve"/>
+      <point x="167" y="471" type="line"/>
+      <point x="214" y="471" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>f_f</string>
+  </dict>
+  </lib>
+</glyph>

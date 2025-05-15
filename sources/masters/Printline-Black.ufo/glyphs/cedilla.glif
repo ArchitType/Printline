@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="2">
+  <advance width="351"/>
+  <unicode hex="00B8"/>
+  <anchor x="155" y="0" name="_ced"/>
+  <outline>
+    <contour>
+      <point x="112" y="-94" type="line"/>
+      <point x="207" y="-94"/>
+      <point x="207" y="-146.444" type="qcurve" smooth="yes"/>
+      <point x="207" y="-201"/>
+      <point x="112" y="-181" type="qcurve"/>
+      <point x="112" y="-250" type="line"/>
+      <point x="293" y="-270"/>
+      <point x="293" y="-141" type="qcurve" smooth="yes"/>
+      <point x="293" y="-45"/>
+      <point x="198" y="-25" type="qcurve"/>
+      <point x="198" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>space+uni0327</string>
+  </dict>
+  </lib>
+</glyph>

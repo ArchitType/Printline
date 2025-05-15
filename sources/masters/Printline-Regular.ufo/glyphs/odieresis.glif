@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odieresis" format="2">
+  <advance width="306"/>
+  <unicode hex="00F6"/>
+  <anchor x="165.5" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="153.468" y="-5" type="qcurve" smooth="yes"/>
+      <point x="214.02" y="-5"/>
+      <point x="291" y="138.245"/>
+      <point x="291" y="255.511" type="qcurve" smooth="yes"/>
+      <point x="291" y="372.736"/>
+      <point x="213.082" y="515"/>
+      <point x="153.221" y="515" type="qcurve" smooth="yes"/>
+      <point x="92.9184" y="515"/>
+      <point x="15" y="372.736"/>
+      <point x="15" y="255.709" type="qcurve" smooth="yes"/>
+      <point x="15" y="138.245"/>
+      <point x="92.9184" y="-5"/>
+    </contour>
+    <contour>
+      <point x="153.221" y="39" type="qcurve" smooth="yes"/>
+      <point x="114.818" y="39"/>
+      <point x="69.75" y="156.918"/>
+      <point x="69.75" y="255.447" type="qcurve" smooth="yes"/>
+      <point x="69.75" y="353.082"/>
+      <point x="114.818" y="471"/>
+      <point x="153.195" y="471" type="qcurve" smooth="yes"/>
+      <point x="191.182" y="471"/>
+      <point x="236.25" y="353.082"/>
+      <point x="236.25" y="255.447" type="qcurve" smooth="yes"/>
+      <point x="236.25" y="156.918"/>
+      <point x="191.182" y="39"/>
+    </contour>
+    <contour>
+      <point x="22.5" y="593.436" type="qcurve" smooth="yes"/>
+      <point x="22.5" y="550.224"/>
+      <point x="59.7164" y="550.224" type="qcurve" smooth="yes"/>
+      <point x="96.25" y="550.224"/>
+      <point x="96.25" y="593.436" type="qcurve" smooth="yes"/>
+      <point x="96.25" y="635.974"/>
+      <point x="59.7164" y="635.974" type="qcurve" smooth="yes"/>
+      <point x="22.5" y="635.974"/>
+    </contour>
+    <contour>
+      <point x="221.904" y="593.436" type="qcurve" smooth="yes"/>
+      <point x="221.904" y="550.224"/>
+      <point x="259.121" y="550.224" type="qcurve" smooth="yes"/>
+      <point x="295.654" y="550.224"/>
+      <point x="295.654" y="593.436" type="qcurve" smooth="yes"/>
+      <point x="295.654" y="635.974"/>
+      <point x="259.121" y="635.974" type="qcurve" smooth="yes"/>
+      <point x="221.904" y="635.974"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  <key>com.fontlab.recipe</key>
+  <string>o+dieresis</string>
+  </dict>
+  </lib>
+</glyph>

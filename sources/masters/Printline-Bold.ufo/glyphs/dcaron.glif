@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="2">
+  <advance width="372"/>
+  <unicode hex="010F"/>
+  <outline>
+    <contour>
+      <point x="310.621" y="0" type="line"/>
+      <point x="224.621" y="0" type="line"/>
+      <point x="224.621" y="38" type="line"/>
+      <point x="193.621" y="-5"/>
+      <point x="146.621" y="-5" type="qcurve" smooth="yes"/>
+      <point x="91.6206" y="-5"/>
+      <point x="15.6206" y="116"/>
+      <point x="15.6206" y="251" type="qcurve" smooth="yes"/>
+      <point x="15.6206" y="370"/>
+      <point x="75.6206" y="515"/>
+      <point x="137.621" y="515" type="qcurve" smooth="yes"/>
+      <point x="170.621" y="515"/>
+      <point x="223.621" y="474"/>
+      <point x="239.621" y="436" type="qcurve"/>
+      <point x="239.621" y="700" type="line"/>
+      <point x="310.621" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="166.621" y="56" type="qcurve" smooth="yes"/>
+      <point x="193.786" y="56"/>
+      <point x="224.621" y="120.914"/>
+      <point x="224.621" y="176" type="qcurve" smooth="yes"/>
+      <point x="224.621" y="300" type="line" smooth="yes"/>
+      <point x="224.621" y="446"/>
+      <point x="167.621" y="446" type="qcurve" smooth="yes"/>
+      <point x="101.621" y="446"/>
+      <point x="101.621" y="250" type="qcurve" smooth="yes"/>
+      <point x="101.621" y="56"/>
+    </contour>
+    <contour>
+      <point x="348.033" y="652.258" type="qcurve" smooth="yes"/>
+      <point x="348.033" y="683.775"/>
+      <point x="377.033" y="707.775"/>
+      <point x="398.499" y="707.775" type="qcurve" smooth="yes"/>
+      <point x="448.033" y="707.775"/>
+      <point x="448.033" y="645.058" type="qcurve" smooth="yes"/>
+      <point x="448.033" y="586.175"/>
+      <point x="406.033" y="507.775" type="qcurve"/>
+      <point x="372.033" y="507.775" type="line"/>
+      <point x="396.033" y="592.775" type="line"/>
+      <point x="348.033" y="592.775"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=d</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=d-107</string>
+  <key>com.fontlab.recipe</key>
+  <string>d_quoteright</string>
+  </dict>
+  </lib>
+</glyph>

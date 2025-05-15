@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eacute" format="2">
+  <advance width="252"/>
+  <unicode hex="00C9"/>
+  <anchor x="143.5" y="700" name="top"/>
+  <anchor x="209" y="0" name="ogonek"/>
+  <anchor x="155.5" y="0" name="ced"/>
+  <outline>
+    <component base="E"/>
+    <component base="acutecomb" xOffset="69.1396"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>E+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

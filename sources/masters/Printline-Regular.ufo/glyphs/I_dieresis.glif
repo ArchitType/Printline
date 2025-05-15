@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="2">
+  <advance width="135"/>
+  <unicode hex="00CF"/>
+  <anchor x="67.375" y="700" name="top"/>
+  <anchor x="64.25" y="0" name="ced"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="94.75" y="0" type="line"/>
+      <point x="94.75" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="-69.375" y="793.436" type="qcurve" smooth="yes"/>
+      <point x="-69.375" y="750.224"/>
+      <point x="-32.1586" y="750.224" type="qcurve" smooth="yes"/>
+      <point x="4.375" y="750.224"/>
+      <point x="4.375" y="793.436" type="qcurve" smooth="yes"/>
+      <point x="4.375" y="835.974"/>
+      <point x="-32.1586" y="835.974" type="qcurve" smooth="yes"/>
+      <point x="-69.375" y="835.974"/>
+    </contour>
+    <contour>
+      <point x="130.029" y="793.436" type="qcurve" smooth="yes"/>
+      <point x="130.029" y="750.224"/>
+      <point x="167.246" y="750.224" type="qcurve" smooth="yes"/>
+      <point x="203.779" y="750.224"/>
+      <point x="203.779" y="793.436" type="qcurve" smooth="yes"/>
+      <point x="203.779" y="835.974"/>
+      <point x="167.246" y="835.974" type="qcurve" smooth="yes"/>
+      <point x="130.029" y="835.974"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>I+dieresis</string>
+  </dict>
+  </lib>
+</glyph>

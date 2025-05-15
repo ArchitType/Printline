@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute" format="2">
+  <advance width="96"/>
+  <unicode hex="00ED"/>
+  <anchor x="48" y="500" name="top"/>
+  <anchor x="23" y="0" name="ced"/>
+  <anchor x="18" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="66" y="500" type="line"/>
+      <point x="30" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="57.0434" y="550" type="line"/>
+      <point x="101.705" y="690" type="line"/>
+      <point x="65.4919" y="690" type="line"/>
+      <point x="34.8219" y="550" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

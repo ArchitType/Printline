@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="2">
+  <advance width="331"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="166" y="280" type="qcurve" smooth="yes"/>
+      <point x="232" y="280"/>
+      <point x="316" y="403"/>
+      <point x="316" y="488.093" type="qcurve" smooth="yes"/>
+      <point x="316" y="575.666"/>
+      <point x="231" y="700"/>
+      <point x="166" y="700" type="qcurve" smooth="yes"/>
+      <point x="100" y="700"/>
+      <point x="15" y="575.666"/>
+      <point x="15" y="488.32" type="qcurve" smooth="yes"/>
+      <point x="15" y="403"/>
+      <point x="100" y="280"/>
+    </contour>
+    <contour>
+      <point x="166" y="349" type="qcurve" smooth="yes"/>
+      <point x="136" y="349"/>
+      <point x="101" y="425.639"/>
+      <point x="101" y="491" type="qcurve" smooth="yes"/>
+      <point x="101" y="554.09"/>
+      <point x="136" y="631"/>
+      <point x="166" y="631" type="qcurve" smooth="yes"/>
+      <point x="195" y="631"/>
+      <point x="230" y="554.09"/>
+      <point x="230" y="491" type="qcurve" smooth="yes"/>
+      <point x="230" y="425.639"/>
+      <point x="195" y="349"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
+</glyph>

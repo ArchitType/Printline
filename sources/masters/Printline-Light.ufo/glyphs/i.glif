@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="2">
+  <advance width="118"/>
+  <unicode hex="0069"/>
+  <anchor x="4" y="0" name="ced"/>
+  <anchor x="2" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="43" y="0" type="line"/>
+      <point x="79" y="0" type="line"/>
+      <point x="79" y="500" type="line"/>
+      <point x="43" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="59" y="639" type="qcurve" smooth="yes"/>
+      <point x="71.2105" y="639"/>
+      <point x="88" y="653.904"/>
+      <point x="88" y="669.5" type="qcurve" smooth="yes"/>
+      <point x="88" y="685.096"/>
+      <point x="71.2105" y="700"/>
+      <point x="59" y="700" type="qcurve" smooth="yes"/>
+      <point x="46.7895" y="700"/>
+      <point x="30" y="685.096"/>
+      <point x="30" y="669.5" type="qcurve" smooth="yes"/>
+      <point x="30" y="653.904"/>
+      <point x="46.7895" y="639"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=r()</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
+</glyph>

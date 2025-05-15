@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek" format="2">
+  <advance width="118"/>
+  <unicode hex="012F"/>
+  <anchor x="59.9936" y="0" name="ced"/>
+  <anchor x="59" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="43" y="0" type="line"/>
+      <point x="79" y="0" type="line"/>
+      <point x="79" y="500" type="line"/>
+      <point x="43" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="59" y="639" type="qcurve" smooth="yes"/>
+      <point x="71.2105" y="639"/>
+      <point x="88" y="653.904"/>
+      <point x="88" y="669.5" type="qcurve" smooth="yes"/>
+      <point x="88" y="685.096"/>
+      <point x="71.2105" y="700"/>
+      <point x="59" y="700" type="qcurve" smooth="yes"/>
+      <point x="46.7895" y="700"/>
+      <point x="30" y="685.096"/>
+      <point x="30" y="669.5" type="qcurve" smooth="yes"/>
+      <point x="30" y="653.904"/>
+      <point x="46.7895" y="639"/>
+    </contour>
+    <contour>
+      <point x="43" y="0" type="line"/>
+      <point x="15.6291" y="-35.5375" type="line" smooth="yes"/>
+      <point x="-33" y="-98.6761"/>
+      <point x="-33" y="-162.109" type="qcurve" smooth="yes"/>
+      <point x="-33" y="-259"/>
+      <point x="75" y="-259" type="qcurve"/>
+      <point x="75" y="-240" type="line"/>
+      <point x="3" y="-220"/>
+      <point x="3" y="-157.928" type="qcurve" smooth="yes"/>
+      <point x="3" y="-108.898"/>
+      <point x="49.624" y="-42.0921" type="qcurve" smooth="yes"/>
+      <point x="79" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>i+ogonek</string>
+  </dict>
+  </lib>
+</glyph>

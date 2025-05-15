@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Umacron" format="2">
+  <advance width="357"/>
+  <unicode hex="016A"/>
+  <anchor x="178.5" y="700" name="top"/>
+  <anchor x="178.5" y="0.298" name="ced"/>
+  <anchor x="207" y="0" name="ogonek"/>
+  <outline>
+    <component base="U"/>
+    <component base="macron" xOffset="87.5"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>U+macron</string>
+  </dict>
+  </lib>
+</glyph>

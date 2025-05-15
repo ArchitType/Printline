@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Amacron" format="2">
+  <advance width="306"/>
+  <unicode hex="0100"/>
+  <anchor x="152.625" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="290.5" y="0" type="line"/>
+      <point x="193.011" y="700" type="line"/>
+      <point x="111.864" y="700" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="69.75" y="0" type="line"/>
+      <point x="95.875" y="209" type="line"/>
+      <point x="209.625" y="209" type="line"/>
+      <point x="235.75" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="203.75" y="253" type="line"/>
+      <point x="101.75" y="253" type="line"/>
+      <point x="152.25" y="647" type="line"/>
+    </contour>
+    <contour>
+      <point x="62.4375" y="825" type="line"/>
+      <point x="242.438" y="825" type="line"/>
+      <point x="242.438" y="869" type="line"/>
+      <point x="62.4375" y="869" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+macron</string>
+  </dict>
+  </lib>
+</glyph>

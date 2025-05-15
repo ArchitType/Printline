@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three" format="2">
+  <advance width="321"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="128.612" y="369" type="line"/>
+      <point x="128.612" y="340" type="line"/>
+      <point x="138.715" y="340" type="line"/>
+      <point x="203.631" y="340"/>
+      <point x="265" y="235.2"/>
+      <point x="265" y="159.296" type="qcurve" smooth="yes"/>
+      <point x="265" y="94.2461"/>
+      <point x="216.284" y="14"/>
+      <point x="171.299" y="14" type="qcurve" smooth="yes"/>
+      <point x="124.582" y="14"/>
+      <point x="73" y="103.883"/>
+      <point x="73" y="191" type="qcurve"/>
+      <point x="40" y="191" type="line"/>
+      <point x="40" y="96"/>
+      <point x="110.236" y="-15"/>
+      <point x="170.712" y="-15" type="qcurve" smooth="yes"/>
+      <point x="232.643" y="-15"/>
+      <point x="301" y="98.9272"/>
+      <point x="301" y="178.32" type="qcurve" smooth="yes"/>
+      <point x="301" y="244.725"/>
+      <point x="252.71" y="327.67"/>
+      <point x="215" y="354" type="qcurve"/>
+      <point x="252.71" y="379.423"/>
+      <point x="301" y="460.619"/>
+      <point x="301" y="525.192" type="qcurve" smooth="yes"/>
+      <point x="301" y="605.995"/>
+      <point x="227.316" y="715"/>
+      <point x="167.931" y="715" type="qcurve" smooth="yes"/>
+      <point x="104.166" y="715"/>
+      <point x="40" y="591"/>
+      <point x="40" y="485" type="qcurve"/>
+      <point x="73" y="485" type="line"/>
+      <point x="73" y="582.855"/>
+      <point x="123.149" y="686"/>
+      <point x="172.751" y="686" type="qcurve" smooth="yes"/>
+      <point x="216.284" y="686"/>
+      <point x="265" y="609.531"/>
+      <point x="265" y="533.864" type="qcurve" smooth="yes"/>
+      <point x="265" y="426.789"/>
+      <point x="173.759" y="369"/>
+      <point x="138.715" y="369" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=B</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=B</string>
+  </dict>
+  </lib>
+</glyph>

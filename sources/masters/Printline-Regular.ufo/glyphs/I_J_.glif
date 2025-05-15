@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJ" format="2">
+  <advance width="337"/>
+  <unicode hex="0132"/>
+  <anchor x="269.125" y="700" name="top"/>
+  <anchor x="64.25" y="0" name="ced"/>
+  <outline>
+    <component base="I"/>
+    <component base="J" xOffset="134.75"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>I_J</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="2">
+  <advance width="258"/>
+  <unicode hex="007B"/>
+  <outline>
+    <contour>
+      <point x="218" y="750" type="qcurve"/>
+      <point x="218" y="706" type="line"/>
+      <point x="194.805" y="706"/>
+      <point x="167.209" y="693.594"/>
+      <point x="152.651" y="664.156"/>
+      <point x="148.25" y="615.375"/>
+      <point x="148.25" y="569.265" type="qcurve" smooth="yes"/>
+      <point x="148.25" y="496.188"/>
+      <point x="136.984" y="383.793"/>
+      <point x="111.743" y="360.775" type="qcurve"/>
+      <point x="136.83" y="338.447"/>
+      <point x="148.25" y="221.334"/>
+      <point x="148.25" y="141.105" type="qcurve" smooth="yes"/>
+      <point x="148.25" y="91.375"/>
+      <point x="152.651" y="39.5313"/>
+      <point x="167.209" y="8.21875"/>
+      <point x="194.805" y="-5"/>
+      <point x="218" y="-5" type="qcurve"/>
+      <point x="218" y="-49" type="line"/>
+      <point x="186.191" y="-49"/>
+      <point x="138.828" y="-36.8583"/>
+      <point x="107.95" y="6.54167"/>
+      <point x="93.5" y="90.7583"/>
+      <point x="93.5" y="170.13" type="qcurve" smooth="yes"/>
+      <point x="93.5" y="224.833"/>
+      <point x="89.2591" y="295.229"/>
+      <point x="77.5152" y="330.104"/>
+      <point x="56.6372" y="338.5"/>
+      <point x="40" y="338.5" type="qcurve"/>
+      <point x="40" y="382.5" type="line"/>
+      <point x="56.6372" y="382.5"/>
+      <point x="77.5152" y="389.164"/>
+      <point x="89.2591" y="421.385"/>
+      <point x="93.5" y="488.609"/>
+      <point x="93.5" y="541.557" type="qcurve" smooth="yes"/>
+      <point x="93.5" y="617.493"/>
+      <point x="107.95" y="697.334"/>
+      <point x="138.828" y="738.483"/>
+      <point x="186.191" y="750"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  </dict>
+  </lib>
+</glyph>

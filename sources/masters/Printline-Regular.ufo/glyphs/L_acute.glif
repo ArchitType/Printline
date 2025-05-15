@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lacute" format="2">
+  <advance width="245"/>
+  <unicode hex="0139"/>
+  <anchor x="83" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="239.75" y="0" type="line"/>
+      <point x="239.75" y="44" type="line"/>
+      <point x="94.75" y="44" type="line"/>
+      <point x="94.75" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="97.6765" y="750" type="line"/>
+      <point x="146.088" y="890" type="line"/>
+      <point x="91.1251" y="890" type="line"/>
+      <point x="60.455" y="750" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=L</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=L</string>
+  <key>com.fontlab.recipe</key>
+  <string>L+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

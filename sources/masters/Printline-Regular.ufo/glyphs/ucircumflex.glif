@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucircumflex" format="2">
+  <advance width="316"/>
+  <unicode hex="00FB"/>
+  <anchor x="170.5" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="286" y="0" type="line"/>
+      <point x="286" y="500" type="line"/>
+      <point x="231.25" y="500" type="line"/>
+      <point x="231.25" y="205.002" type="line" smooth="yes"/>
+      <point x="231.25" y="121.284"/>
+      <point x="196.305" y="39"/>
+      <point x="156.036" y="39" type="qcurve" smooth="yes"/>
+      <point x="114.319" y="39"/>
+      <point x="84.75" y="121.284"/>
+      <point x="84.75" y="205.677" type="qcurve" smooth="yes"/>
+      <point x="84.75" y="500" type="line"/>
+      <point x="30" y="500" type="line"/>
+      <point x="30" y="168" type="line" smooth="yes"/>
+      <point x="30" y="81"/>
+      <point x="88.4583" y="-5"/>
+      <point x="144.969" y="-5" type="qcurve" smooth="yes"/>
+      <point x="209.208" y="-5"/>
+      <point x="231.25" y="51.75" type="qcurve"/>
+      <point x="231.25" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="117" y="550" type="line"/>
+      <point x="170.5" y="646" type="line"/>
+      <point x="224" y="550" type="line"/>
+      <point x="278.75" y="550" type="line"/>
+      <point x="199.654" y="684" type="line"/>
+      <point x="141.346" y="684" type="line"/>
+      <point x="62.25" y="550" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=u</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=u</string>
+  <key>com.fontlab.recipe</key>
+  <string>u+circumflex</string>
+  </dict>
+  </lib>
+</glyph>

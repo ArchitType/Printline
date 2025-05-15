@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcommaaccent" format="2">
+  <advance width="318"/>
+  <unicode hex="0136"/>
+  <outline>
+    <contour>
+      <point x="247.5" y="0" type="line"/>
+      <point x="302.25" y="0" type="line"/>
+      <point x="149" y="388.25" type="line"/>
+      <point x="295.25" y="700" type="line"/>
+      <point x="240.5" y="700" type="line"/>
+      <point x="94.75" y="393.5" type="line"/>
+      <point x="94.75" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="94.75" y="0" type="line"/>
+      <point x="94.75" y="308.536" type="line"/>
+      <point x="111.75" y="341.25" type="line"/>
+    </contour>
+    <contour>
+      <point x="130.5" y="-112.468" type="qcurve" smooth="yes"/>
+      <point x="130.5" y="-156.475"/>
+      <point x="166" y="-156.475" type="qcurve"/>
+      <point x="142" y="-241.475" type="line"/>
+      <point x="163.5" y="-241.475" type="line"/>
+      <point x="205.5" y="-162.7"/>
+      <point x="205.5" y="-116.823" type="qcurve" smooth="yes"/>
+      <point x="205.5" y="-72.1004"/>
+      <point x="168.349" y="-72.1004" type="qcurve" smooth="yes"/>
+      <point x="152.25" y="-72.1004"/>
+      <point x="130.5" y="-89.7091"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=K</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=K</string>
+  <key>com.fontlab.recipe</key>
+  <string>K+uni0326</string>
+  </dict>
+  </lib>
+</glyph>

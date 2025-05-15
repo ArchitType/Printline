@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcommaaccent" format="2">
+  <advance width="136"/>
+  <unicode hex="021B"/>
+  <anchor x="97.7479" y="699.698" name="top"/>
+  <anchor x="97.7479" y="0" name="ced"/>
+  <outline>
+    <component base="t"/>
+    <component base="commaaccentcomb" xOffset="22.7479"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=t</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=t</string>
+  <key>com.fontlab.recipe</key>
+  <string>t+uni0326</string>
+  </dict>
+  </lib>
+</glyph>

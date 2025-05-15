@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis" format="2">
+  <advance width="372"/>
+  <unicode hex="00DC"/>
+  <anchor x="186" y="308.244" name="top"/>
+  <anchor x="198.5" y="0.298" name="ced"/>
+  <outline>
+    <contour>
+      <point x="40" y="160" type="line" smooth="yes"/>
+      <point x="40" y="79.4939"/>
+      <point x="115.895" y="-21"/>
+      <point x="184.241" y="-21" type="qcurve" smooth="yes"/>
+      <point x="253.144" y="-21"/>
+      <point x="332" y="79.4939"/>
+      <point x="332" y="160" type="qcurve" smooth="yes"/>
+      <point x="332" y="700" type="line"/>
+      <point x="277.25" y="700" type="line"/>
+      <point x="277.25" y="152.5" type="line" smooth="yes"/>
+      <point x="277.25" y="22.9918"/>
+      <point x="185.754" y="22.9945" type="qcurve" smooth="yes"/>
+      <point x="94.75" y="22.9918"/>
+      <point x="94.75" y="152.5" type="qcurve" smooth="yes"/>
+      <point x="94.75" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="49.4229" y="793.436" type="qcurve" smooth="yes"/>
+      <point x="49.4229" y="750.224"/>
+      <point x="86.6394" y="750.224" type="qcurve" smooth="yes"/>
+      <point x="123.173" y="750.224"/>
+      <point x="123.173" y="793.436" type="qcurve" smooth="yes"/>
+      <point x="123.173" y="835.974"/>
+      <point x="86.6394" y="835.974" type="qcurve" smooth="yes"/>
+      <point x="49.4229" y="835.974"/>
+    </contour>
+    <contour>
+      <point x="248.827" y="793.436" type="qcurve" smooth="yes"/>
+      <point x="248.827" y="750.224"/>
+      <point x="286.043" y="750.224" type="qcurve" smooth="yes"/>
+      <point x="322.577" y="750.224"/>
+      <point x="322.577" y="793.436" type="qcurve" smooth="yes"/>
+      <point x="322.577" y="835.974"/>
+      <point x="286.043" y="835.974" type="qcurve" smooth="yes"/>
+      <point x="248.827" y="835.974"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=U</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=U</string>
+  <key>com.fontlab.recipe</key>
+  <string>U+dieresis</string>
+  </dict>
+  </lib>
+</glyph>

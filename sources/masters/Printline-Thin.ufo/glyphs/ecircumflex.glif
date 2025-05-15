@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflex" format="2">
+  <advance width="290"/>
+  <unicode hex="00EA"/>
+  <anchor x="165" y="500" name="top"/>
+  <anchor x="165" y="10" name="ced"/>
+  <anchor x="180.208" y="10" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="147.076" y="-5" type="qcurve" smooth="yes"/>
+      <point x="195.109" y="-5"/>
+      <point x="266.794" y="85.6532"/>
+      <point x="273" y="159" type="qcurve"/>
+      <point x="235" y="159" type="line"/>
+      <point x="235" y="102.019"/>
+      <point x="184.548" y="24"/>
+      <point x="147.518" y="24" type="qcurve" smooth="yes"/>
+      <point x="101.452" y="24"/>
+      <point x="51" y="138.201"/>
+      <point x="51" y="223" type="qcurve"/>
+      <point x="275" y="223" type="line"/>
+      <point x="275" y="301.059" type="line" smooth="yes"/>
+      <point x="275" y="392.654"/>
+      <point x="206.678" y="515"/>
+      <point x="148.198" y="515" type="qcurve" smooth="yes"/>
+      <point x="86.0667" y="515"/>
+      <point x="15" y="376.207"/>
+      <point x="15" y="257.557" type="qcurve" smooth="yes"/>
+      <point x="15" y="138.024"/>
+      <point x="86.8705" y="-5"/>
+    </contour>
+    <contour>
+      <point x="51" y="252" type="line"/>
+      <point x="51" y="337.647"/>
+      <point x="99.4688" y="486"/>
+      <point x="152.021" y="486" type="qcurve" smooth="yes"/>
+      <point x="202.281" y="486"/>
+      <point x="239" y="337.647"/>
+      <point x="239" y="252" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="104" y="550" type="line"/>
+      <point x="165" y="661" type="line"/>
+      <point x="226" y="550" type="line"/>
+      <point x="262" y="550" type="line"/>
+      <point x="186.654" y="684" type="line"/>
+      <point x="143.346" y="684" type="line"/>
+      <point x="68" y="550" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=e</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=e</string>
+  <key>com.fontlab.recipe</key>
+  <string>e+circumflex</string>
+  </dict>
+  </lib>
+</glyph>

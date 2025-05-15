@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute" format="2">
+  <advance width="318"/>
+  <unicode hex="00DD"/>
+  <anchor x="182.75" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="131.125" y="0" type="line"/>
+      <point x="185.875" y="0" type="line"/>
+      <point x="185.875" y="304" type="line"/>
+      <point x="303" y="700" type="line"/>
+      <point x="248.25" y="700" type="line"/>
+      <point x="158.5" y="351" type="line"/>
+      <point x="69.75" y="700" type="line"/>
+      <point x="15" y="700" type="line"/>
+      <point x="131.125" y="304" type="line"/>
+    </contour>
+    <contour>
+      <point x="197.427" y="750" type="line"/>
+      <point x="245.838" y="890" type="line"/>
+      <point x="190.875" y="890" type="line"/>
+      <point x="160.205" y="750" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=Y</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Y</string>
+  <key>com.fontlab.recipe</key>
+  <string>Y+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

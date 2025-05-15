@@ -1,0 +1,16 @@
+sources:
+- Printline.designspace
+
+axisOrder:
+- wght
+
+familyName: Printline
+outputDir: ../fonts
+flattenComponents: false
+removeOutlineOverlaps: false
+decomposeTransformedComponents: false
+buildVariable: true
+buildStatic: true
+buildWebfont: false
+
+

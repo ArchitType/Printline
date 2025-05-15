@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis" format="2">
+  <advance width="306"/>
+  <unicode hex="00C4"/>
+  <anchor x="152.75" y="699.952" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="dieresis" xOffset="15.875"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+dieresis</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uacute" format="2">
+  <advance width="341"/>
+  <unicode hex="00FA"/>
+  <anchor x="170.5" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="311" y="0" type="line"/>
+      <point x="311" y="500" type="line"/>
+      <point x="225" y="500" type="line"/>
+      <point x="225" y="221" type="line"/>
+      <point x="225" y="141.822"/>
+      <point x="199" y="64"/>
+      <point x="170" y="64" type="qcurve" smooth="yes"/>
+      <point x="138" y="64"/>
+      <point x="116" y="141.822"/>
+      <point x="116" y="221.638" type="qcurve"/>
+      <point x="116" y="500" type="line"/>
+      <point x="30" y="500" type="line"/>
+      <point x="30" y="168" type="line"/>
+      <point x="30" y="81"/>
+      <point x="86.6429" y="-5"/>
+      <point x="140.5" y="-5" type="qcurve" smooth="yes"/>
+      <point x="203.643" y="-5"/>
+      <point x="225" y="58" type="qcurve"/>
+      <point x="225" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="194.565" y="550" type="line"/>
+      <point x="249.227" y="690" type="line"/>
+      <point x="163.014" y="690" type="line"/>
+      <point x="132.344" y="550" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=u</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=u</string>
+  <key>com.fontlab.recipe</key>
+  <string>u+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

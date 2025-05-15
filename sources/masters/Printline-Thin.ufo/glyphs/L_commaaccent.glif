@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcommaaccent" format="2">
+  <advance width="226"/>
+  <unicode hex="013B"/>
+  <anchor x="83" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="221" y="0" type="line"/>
+      <point x="221" y="29" type="line"/>
+      <point x="76" y="29" type="line"/>
+      <point x="76" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="-121.754" type="qcurve" smooth="yes"/>
+      <point x="88" y="-156.475"/>
+      <point x="116" y="-156.475" type="qcurve"/>
+      <point x="92" y="-241.475" type="line"/>
+      <point x="106" y="-241.475" type="line"/>
+      <point x="148" y="-162.475"/>
+      <point x="148" y="-124.402" type="qcurve" smooth="yes"/>
+      <point x="148" y="-90.4754"/>
+      <point x="118.279" y="-90.4754" type="qcurve" smooth="yes"/>
+      <point x="105.4" y="-90.4754"/>
+      <point x="88" y="-104.249"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=L</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=L</string>
+  <key>com.fontlab.recipe</key>
+  <string>L+uni0326</string>
+  </dict>
+  </lib>
+</glyph>

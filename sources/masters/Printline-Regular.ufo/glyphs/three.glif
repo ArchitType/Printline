@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three" format="2">
+  <advance width="336"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="136.112" y="380.25" type="line"/>
+      <point x="136.112" y="337.375" type="line"/>
+      <point x="145.381" y="337.375" type="line" smooth="yes"/>
+      <point x="200.28" y="337.375"/>
+      <point x="261.25" y="249.901"/>
+      <point x="261.25" y="164.197" type="qcurve" smooth="yes"/>
+      <point x="261.25" y="104.908"/>
+      <point x="218.243" y="29"/>
+      <point x="178.306" y="29" type="qcurve" smooth="yes"/>
+      <point x="137.287" y="29"/>
+      <point x="91.75" y="111.266"/>
+      <point x="91.75" y="191" type="qcurve"/>
+      <point x="40" y="191" type="line"/>
+      <point x="40" y="96"/>
+      <point x="114.272" y="-15"/>
+      <point x="177.939" y="-15" type="qcurve" smooth="yes"/>
+      <point x="243.714" y="-15"/>
+      <point x="316" y="100.08"/>
+      <point x="316" y="182.037" type="qcurve" smooth="yes"/>
+      <point x="316" y="247.352"/>
+      <point x="269.865" y="331.136"/>
+      <point x="233.839" y="357.732" type="qcurve"/>
+      <point x="269.865" y="382.892"/>
+      <point x="316" y="463.249"/>
+      <point x="316" y="525.797" type="qcurve" smooth="yes"/>
+      <point x="316" y="607.122"/>
+      <point x="238.082" y="715"/>
+      <point x="175.463" y="715" type="qcurve" smooth="yes"/>
+      <point x="107.854" y="715"/>
+      <point x="40" y="591"/>
+      <point x="40" y="485" type="qcurve"/>
+      <point x="91.75" y="485" type="line"/>
+      <point x="91.75" y="575.553"/>
+      <point x="136.022" y="671"/>
+      <point x="179.583" y="671" type="qcurve" smooth="yes"/>
+      <point x="218.243" y="671"/>
+      <point x="261.25" y="600.863"/>
+      <point x="261.25" y="532.183" type="qcurve" smooth="yes"/>
+      <point x="261.25" y="433.254"/>
+      <point x="177.535" y="380.25"/>
+      <point x="145.381" y="380.25" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=B</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=B</string>
+  </dict>
+  </lib>
+</glyph>

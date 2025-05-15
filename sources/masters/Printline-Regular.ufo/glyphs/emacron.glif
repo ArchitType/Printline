@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emacron" format="2">
+  <advance width="305"/>
+  <unicode hex="0113"/>
+  <anchor x="152.5" y="10" name="ced"/>
+  <anchor x="167.708" y="10" name="ogonek"/>
+  <anchor x="159.763" y="500" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="macron" xOffset="71.5" yOffset="-200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>e+macron</string>
+  </dict>
+  </lib>
+</glyph>

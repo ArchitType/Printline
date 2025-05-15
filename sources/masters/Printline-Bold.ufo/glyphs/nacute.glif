@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nacute" format="2">
+  <advance width="341"/>
+  <unicode hex="0144"/>
+  <anchor x="170.5" y="500" name="top"/>
+  <outline>
+    <component base="n"/>
+    <component base="acutecomb" xOffset="96.1396" yOffset="-200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>n+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcaron" format="2">
+  <advance width="326"/>
+  <unicode hex="0164"/>
+  <anchor x="165.5" y="0.4974" name="ced"/>
+  <anchor x="162.375" y="700" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="caron" xOffset="4.375"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>T+caron</string>
+  </dict>
+  </lib>
+</glyph>

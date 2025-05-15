@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave" format="2">
+  <advance width="146"/>
+  <unicode hex="00EC"/>
+  <anchor x="73" y="500" name="top"/>
+  <anchor x="73" y="0" name="ced"/>
+  <anchor x="68" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="116" y="0" type="line"/>
+      <point x="116" y="500" type="line"/>
+      <point x="30" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="34.8226" y="550" type="line"/>
+      <point x="97" y="550" type="line"/>
+      <point x="50.4357" y="690" type="line"/>
+      <point x="-35.2074" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+gravecomb</string>
+  </dict>
+  </lib>
+</glyph>

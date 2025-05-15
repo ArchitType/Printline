@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecaron" format="2">
+  <advance width="271"/>
+  <unicode hex="011A"/>
+  <anchor x="168.5" y="700" name="top"/>
+  <anchor x="229" y="0" name="ogonek"/>
+  <anchor x="175.5" y="0" name="ced"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="265.75" y="0" type="line"/>
+      <point x="265.75" y="44" type="line"/>
+      <point x="94.75" y="44" type="line"/>
+      <point x="94.75" y="330.75" type="line"/>
+      <point x="218.75" y="330.75" type="line"/>
+      <point x="218.75" y="374.75" type="line"/>
+      <point x="94.75" y="374.75" type="line"/>
+      <point x="94.75" y="656" type="line"/>
+      <point x="258.75" y="656" type="line"/>
+      <point x="258.75" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="197.654" y="749.998" type="line"/>
+      <point x="273" y="883.998" type="line"/>
+      <point x="218.25" y="883.998" type="line"/>
+      <point x="168.5" y="787.998" type="line"/>
+      <point x="118.75" y="883.998" type="line"/>
+      <point x="64" y="883.998" type="line"/>
+      <point x="139.346" y="749.998" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=E</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=E</string>
+  <key>com.fontlab.recipe</key>
+  <string>E+caron</string>
+  </dict>
+  </lib>
+</glyph>

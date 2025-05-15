@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="2">
+  <advance width="343"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="134.164" y="453.822" type="line"/>
+      <point x="154.283" y="578.238" type="line"/>
+      <point x="58.4475" y="493.631" type="line"/>
+      <point x="30.5043" y="551.508" type="line"/>
+      <point x="152" y="601.515" type="line"/>
+      <point x="30.6519" y="640.836" type="line"/>
+      <point x="58.4475" y="698.407" type="line"/>
+      <point x="154.283" y="613.8" type="line"/>
+      <point x="134.164" y="738.217" type="line"/>
+      <point x="199.034" y="738.217" type="line"/>
+      <point x="179.05" y="614.636" type="line"/>
+      <point x="284.674" y="698.652" type="line"/>
+      <point x="312.588" y="640.836" type="line"/>
+      <point x="186.657" y="601.515" type="line"/>
+      <point x="312.736" y="551.508" type="line"/>
+      <point x="284.674" y="493.386" type="line"/>
+      <point x="179.05" y="577.402" type="line"/>
+      <point x="199.034" y="453.822" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflex" format="2">
+  <advance width="291"/>
+  <unicode hex="00F4"/>
+  <anchor x="145.5" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="145.957" y="-5" type="qcurve" smooth="yes"/>
+      <point x="203.204" y="-5"/>
+      <point x="276" y="138.245"/>
+      <point x="276" y="255.229" type="qcurve" smooth="yes"/>
+      <point x="276" y="372.736"/>
+      <point x="202.316" y="515"/>
+      <point x="145.563" y="515" type="qcurve" smooth="yes"/>
+      <point x="88.6837" y="515"/>
+      <point x="15" y="372.736"/>
+      <point x="15" y="255.545" type="qcurve" smooth="yes"/>
+      <point x="15" y="138.245"/>
+      <point x="88.6837" y="-5"/>
+    </contour>
+    <contour>
+      <point x="145.563" y="24" type="qcurve" smooth="yes"/>
+      <point x="102.158" y="24"/>
+      <point x="51" y="150.107"/>
+      <point x="51" y="255.131" type="qcurve" smooth="yes"/>
+      <point x="51" y="359.893"/>
+      <point x="102.158" y="486"/>
+      <point x="145.521" y="486" type="qcurve" smooth="yes"/>
+      <point x="188.842" y="486"/>
+      <point x="240" y="359.893"/>
+      <point x="240" y="255.131" type="qcurve" smooth="yes"/>
+      <point x="240" y="150.107"/>
+      <point x="188.842" y="24"/>
+    </contour>
+    <contour>
+      <point x="84.5" y="550" type="line"/>
+      <point x="145.5" y="661" type="line"/>
+      <point x="206.5" y="550" type="line"/>
+      <point x="242.5" y="550" type="line"/>
+      <point x="167.154" y="684" type="line"/>
+      <point x="123.846" y="684" type="line"/>
+      <point x="48.5" y="550" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>o+circumflex</string>
+  </dict>
+  </lib>
+</glyph>

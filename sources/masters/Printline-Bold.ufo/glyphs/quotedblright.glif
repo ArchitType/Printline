@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblright" format="2">
+  <advance width="283"/>
+  <unicode hex="201D"/>
+  <outline>
+    <component base="comma" xOffset="0.1873" yOffset="567.779"/>
+    <component base="comma" xOffset="122.808" yOffset="567.779"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="2">
+  <advance width="235"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="49" y="750" type="line"/>
+      <point x="49" y="820.663"/>
+      <point x="69.1043" y="820.663" type="qcurve" smooth="yes"/>
+      <point x="85.3161" y="820.663"/>
+      <point x="128.526" y="750"/>
+      <point x="158.851" y="750" type="qcurve" smooth="yes"/>
+      <point x="194.012" y="750"/>
+      <point x="234.872" y="800.081"/>
+      <point x="235" y="862.105" type="qcurve"/>
+      <point x="186" y="862.105" type="line"/>
+      <point x="186" y="789.337"/>
+      <point x="164.774" y="789.337" type="qcurve" smooth="yes"/>
+      <point x="148.19" y="789.337"/>
+      <point x="102.092" y="860"/>
+      <point x="71.9909" y="860" type="qcurve" smooth="yes"/>
+      <point x="37.1567" y="860"/>
+      <point x="0" y="810.341"/>
+      <point x="0" y="750" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=0</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=0</string>
+  <key>com.fontlab.recipe</key>
+  <string>space+tildecomb</string>
+  </dict>
+  </lib>
+</glyph>

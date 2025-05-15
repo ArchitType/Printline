@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ntilde" format="2">
+  <advance width="291"/>
+  <unicode hex="00F1"/>
+  <anchor x="170.5" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="66" y="234.283" type="line" smooth="yes"/>
+      <point x="66" y="400.108"/>
+      <point x="105.09" y="486"/>
+      <point x="150.104" y="486" type="qcurve" smooth="yes"/>
+      <point x="201.451" y="486"/>
+      <point x="225" y="386.839"/>
+      <point x="225" y="234.283" type="qcurve" smooth="yes"/>
+      <point x="225" y="0" type="line"/>
+      <point x="261" y="0" type="line"/>
+      <point x="261" y="299" type="line" smooth="yes"/>
+      <point x="261" y="432"/>
+      <point x="208.364" y="515"/>
+      <point x="161.579" y="515" type="qcurve" smooth="yes"/>
+      <point x="132.641" y="515"/>
+      <point x="83.6986" y="485.873"/>
+      <point x="68" y="456" type="qcurve"/>
+      <point x="62" y="500" type="line"/>
+      <point x="30" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="71.5" y="550" type="line"/>
+      <point x="71.5" y="631"/>
+      <point x="96.8958" y="631" type="qcurve" smooth="yes"/>
+      <point x="115.982" y="631"/>
+      <point x="161.026" y="550"/>
+      <point x="196.982" y="550" type="qcurve" smooth="yes"/>
+      <point x="226.512" y="550"/>
+      <point x="267.372" y="600.081"/>
+      <point x="267.5" y="662.105" type="qcurve"/>
+      <point x="228.5" y="662.105" type="line"/>
+      <point x="228.5" y="579"/>
+      <point x="199.937" y="579" type="qcurve" smooth="yes"/>
+      <point x="178.439" y="579"/>
+      <point x="134.592" y="660"/>
+      <point x="98.8747" y="660" type="qcurve" smooth="yes"/>
+      <point x="69.6567" y="660"/>
+      <point x="32.5" y="610.341"/>
+      <point x="32.5" y="550" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  <key>com.fontlab.recipe</key>
+  <string>n+tilde</string>
+  </dict>
+  </lib>
+</glyph>

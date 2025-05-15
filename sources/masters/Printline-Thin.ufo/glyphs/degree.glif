@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="2">
+  <advance width="142"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="0.95" y="612.888" type="qcurve" smooth="yes"/>
+      <point x="0.95" y="531.87"/>
+      <point x="72.2737" y="531.87" type="qcurve" smooth="yes"/>
+      <point x="141.05" y="531.87"/>
+      <point x="141.05" y="612.888" type="qcurve" smooth="yes"/>
+      <point x="141.05" y="692.64"/>
+      <point x="72.2737" y="692.64" type="qcurve" smooth="yes"/>
+      <point x="0.95" y="692.64"/>
+    </contour>
+    <contour>
+      <point x="47.1724" y="612.829" type="qcurve" smooth="yes"/>
+      <point x="47.1724" y="644.475"/>
+      <point x="71" y="644.475" type="qcurve" smooth="yes"/>
+      <point x="94.8276" y="644.475"/>
+      <point x="94.8276" y="612.829" type="qcurve" smooth="yes"/>
+      <point x="94.8276" y="581.183"/>
+      <point x="71" y="581.183" type="qcurve" smooth="yes"/>
+      <point x="47.1724" y="581.183"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=0</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=0</string>
+  </dict>
+  </lib>
+</glyph>

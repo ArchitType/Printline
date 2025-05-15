@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis" format="2">
+  <advance width="115"/>
+  <unicode hex="00EF"/>
+  <anchor x="57.375" y="500" name="top"/>
+  <anchor x="41.75" y="0" name="ced"/>
+  <anchor x="36.75" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="84.75" y="0" type="line"/>
+      <point x="84.75" y="500" type="line"/>
+      <point x="30" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="-79.2021" y="668.436" type="qcurve" smooth="yes"/>
+      <point x="-79.2021" y="625.224"/>
+      <point x="-41.9856" y="625.224" type="qcurve" smooth="yes"/>
+      <point x="-5.45206" y="625.224"/>
+      <point x="-5.45206" y="668.436" type="qcurve" smooth="yes"/>
+      <point x="-5.45206" y="710.974"/>
+      <point x="-41.9856" y="710.974" type="qcurve" smooth="yes"/>
+      <point x="-79.2021" y="710.974"/>
+    </contour>
+    <contour>
+      <point x="120.202" y="668.436" type="qcurve" smooth="yes"/>
+      <point x="120.202" y="625.224"/>
+      <point x="157.418" y="625.224" type="qcurve" smooth="yes"/>
+      <point x="193.952" y="625.224"/>
+      <point x="193.952" y="668.436" type="qcurve" smooth="yes"/>
+      <point x="193.952" y="710.974"/>
+      <point x="157.418" y="710.974" type="qcurve" smooth="yes"/>
+      <point x="120.202" y="710.974"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+dieresis</string>
+  </dict>
+  </lib>
+</glyph>

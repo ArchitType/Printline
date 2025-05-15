@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="2">
+  <advance width="271"/>
+  <unicode hex="0045"/>
+  <anchor x="152.875" y="700" name="top"/>
+  <anchor x="216.5" y="0" name="ogonek"/>
+  <anchor x="163" y="0" name="ced"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="265.75" y="0" type="line"/>
+      <point x="265.75" y="44" type="line"/>
+      <point x="94.75" y="44" type="line"/>
+      <point x="94.75" y="330.75" type="line"/>
+      <point x="218.75" y="330.75" type="line"/>
+      <point x="218.75" y="374.75" type="line"/>
+      <point x="94.75" y="374.75" type="line"/>
+      <point x="94.75" y="656" type="line"/>
+      <point x="258.75" y="656" type="line"/>
+      <point x="258.75" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=5</string>
+  </dict>
+  </lib>
+</glyph>

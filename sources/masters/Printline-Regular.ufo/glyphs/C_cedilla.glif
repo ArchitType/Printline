@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccedilla" format="2">
+  <advance width="327"/>
+  <unicode hex="00C7"/>
+  <anchor x="163" y="700" name="top"/>
+  <anchor x="163" y="-6" name="ogonek"/>
+  <anchor x="164" y="-5.65504" name="ced"/>
+  <outline>
+    <component base="C"/>
+    <component base="cedilla" xOffset="22.7203"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=C</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=C</string>
+  <key>com.fontlab.recipe</key>
+  <string>C+cedilla</string>
+  </dict>
+  </lib>
+</glyph>

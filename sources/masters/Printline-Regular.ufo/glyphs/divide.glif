@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="2">
+  <advance width="349"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="138.75" y="343.857" type="qcurve" smooth="yes"/>
+      <point x="138.75" y="317.418"/>
+      <point x="162.201" y="298.125"/>
+      <point x="177.125" y="298.125" type="qcurve" smooth="yes"/>
+      <point x="192.049" y="298.125"/>
+      <point x="215.5" y="317.418"/>
+      <point x="215.5" y="343.857" type="qcurve" smooth="yes"/>
+      <point x="215.5" y="370.296"/>
+      <point x="192.049" y="388.875"/>
+      <point x="177.125" y="388.875" type="qcurve" smooth="yes"/>
+      <point x="162.201" y="388.875"/>
+      <point x="138.75" y="370.296"/>
+    </contour>
+    <contour>
+      <point x="0" y="284.625" type="line"/>
+      <point x="349" y="284.625" type="line"/>
+      <point x="349" y="338.625" type="line"/>
+      <point x="0" y="338.625" type="line"/>
+    </contour>
+    <contour>
+      <point x="135.625" y="268.732" type="qcurve" smooth="yes"/>
+      <point x="135.625" y="242.293"/>
+      <point x="159.076" y="223"/>
+      <point x="174" y="223" type="qcurve" smooth="yes"/>
+      <point x="188.924" y="223"/>
+      <point x="212.375" y="242.293"/>
+      <point x="212.375" y="268.732" type="qcurve" smooth="yes"/>
+      <point x="212.375" y="295.171"/>
+      <point x="188.924" y="313.75"/>
+      <point x="174" y="313.75" type="qcurve" smooth="yes"/>
+      <point x="159.076" y="313.75"/>
+      <point x="135.625" y="295.171"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>colon+minus</string>
+  </dict>
+  </lib>
+</glyph>

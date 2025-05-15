@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="2">
+  <advance width="138"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="46.75" y="198" type="line"/>
+      <point x="91" y="198" type="line"/>
+      <point x="103.75" y="695" type="line"/>
+      <point x="34" y="695" type="line"/>
+    </contour>
+    <contour>
+      <point x="68.75" y="0" type="qcurve" smooth="yes"/>
+      <point x="84.2566" y="0"/>
+      <point x="107.125" y="19.4399"/>
+      <point x="107.125" y="43.0625" type="qcurve" smooth="yes"/>
+      <point x="107.125" y="66.6851"/>
+      <point x="84.2566" y="85.75"/>
+      <point x="68.75" y="85.75" type="qcurve" smooth="yes"/>
+      <point x="53.2434" y="85.75"/>
+      <point x="30" y="66.6851"/>
+      <point x="30" y="43.0625" type="qcurve" smooth="yes"/>
+      <point x="30" y="19.4399"/>
+      <point x="53.2434" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  </dict>
+  </lib>
+</glyph>

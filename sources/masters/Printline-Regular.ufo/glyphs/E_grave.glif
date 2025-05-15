@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave" format="2">
+  <advance width="271"/>
+  <unicode hex="00C8"/>
+  <anchor x="216.5" y="0" name="ogonek"/>
+  <anchor x="163" y="0" name="ced"/>
+  <anchor x="152.875" y="699.995" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="gravecomb" xOffset="3.0841"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>E+gravecomb</string>
+  </dict>
+  </lib>
+</glyph>

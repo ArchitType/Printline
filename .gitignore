@@ -1,5 +1,7 @@
 *.vfbak
 *.pyc
 .DS_Store
-
+*.ninja
+*.ninja_log
+instance_ufos/
 test/*

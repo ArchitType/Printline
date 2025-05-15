@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessj" format="2">
+  <advance width="185"/>
+  <unicode hex="0237"/>
+  <anchor x="94" y="500" name="top"/>
+  <anchor x="210" y="0" name="ced"/>
+  <outline>
+    <contour>
+      <point x="-15" y="-250" type="line"/>
+      <point x="137" y="-250"/>
+      <point x="137" y="-65" type="qcurve" smooth="yes"/>
+      <point x="137" y="500" type="line"/>
+      <point x="51" y="500" type="line"/>
+      <point x="51" y="-105" type="line" smooth="yes"/>
+      <point x="51" y="-181"/>
+      <point x="-15" y="-181" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=j</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=j</string>
+  <key>com.fontlab.recipe</key>
+  <string>j%</string>
+  </dict>
+  </lib>
+</glyph>

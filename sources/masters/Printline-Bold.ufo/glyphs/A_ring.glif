@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring" format="2">
+  <advance width="343"/>
+  <unicode hex="00C5"/>
+  <anchor x="172" y="700" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="ring" xOffset="96"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+ring</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ij" format="2">
+  <advance width="353"/>
+  <unicode hex="0133"/>
+  <anchor x="79" y="0" name="ced"/>
+  <anchor x="77" y="0" name="ogonek"/>
+  <outline>
+    <component base="i"/>
+    <component base="j" xOffset="161"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>i_j</string>
+  </dict>
+  </lib>
+</glyph>

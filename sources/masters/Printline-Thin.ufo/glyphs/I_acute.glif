@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute" format="2">
+  <advance width="116"/>
+  <unicode hex="00CD"/>
+  <anchor x="58" y="700" name="top"/>
+  <anchor x="53" y="0" name="ced"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="76" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="67.0434" y="750" type="line"/>
+      <point x="111.705" y="890" type="line"/>
+      <point x="75.4919" y="890" type="line"/>
+      <point x="44.8219" y="750" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>I+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

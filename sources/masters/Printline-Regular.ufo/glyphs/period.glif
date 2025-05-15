@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="2">
+  <advance width="134"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="67.0486" y="0" type="qcurve" smooth="yes"/>
+      <point x="82.0394" y="0"/>
+      <point x="103.75" y="19.4399"/>
+      <point x="103.75" y="43.0625" type="qcurve" smooth="yes"/>
+      <point x="103.75" y="66.6851"/>
+      <point x="82.0394" y="85.75"/>
+      <point x="67.0486" y="85.75" type="qcurve" smooth="yes"/>
+      <point x="52.0579" y="85.75"/>
+      <point x="30" y="66.6851"/>
+      <point x="30" y="43.0625" type="qcurve" smooth="yes"/>
+      <point x="30" y="19.4399"/>
+      <point x="52.0578" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  </dict>
+  </lib>
+</glyph>

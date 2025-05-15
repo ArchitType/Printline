@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="2">
+  <advance width="290"/>
+  <unicode hex="00A2"/>
+  <anchor x="171" y="10" name="ced"/>
+  <anchor x="172.57" y="500" name="top"/>
+  <outline>
+    <component base="c"/>
+    <contour>
+      <point x="132" y="-98" type="line"/>
+      <point x="168" y="-98" type="line"/>
+      <point x="168" y="14" type="line"/>
+      <point x="132" y="14" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="495.531" type="line"/>
+      <point x="168" y="495.531" type="line"/>
+      <point x="168" y="607.531" type="line"/>
+      <point x="132" y="607.531" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=c</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=c</string>
+  <key>com.fontlab.recipe</key>
+  <string>c+bar%</string>
+  </dict>
+  </lib>
+</glyph>

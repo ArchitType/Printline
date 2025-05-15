@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="2">
+  <advance width="119"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="30" y="304" type="qcurve" smooth="yes"/>
+      <point x="30" y="263"/>
+      <point x="59.5" y="263" type="qcurve" smooth="yes"/>
+      <point x="89" y="263"/>
+      <point x="89" y="304" type="qcurve" smooth="yes"/>
+      <point x="89" y="345"/>
+      <point x="59.5" y="345" type="qcurve" smooth="yes"/>
+      <point x="30" y="345"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  </dict>
+  </lib>
+</glyph>
